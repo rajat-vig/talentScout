@@ -7787,3 +7787,38 @@ fieldset[disabled] .md-switch input + i:after {
   left: 15px;
   display: inline;
 }
+
+.showcase1 {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  background: url("images/sliderimage3.png") no-repeat !important;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  height: 670px;
+}
+
+.showcase2 {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  background: url("images/sliderimage4.png") no-repeat !important;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  height: 670px;
+}
+
+.showcase3 {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  width: 1470px;
+  background: url("images/sliderimage5.jpg") no-repeat !important;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  height: 670px;
+  color: #fff;
+}
